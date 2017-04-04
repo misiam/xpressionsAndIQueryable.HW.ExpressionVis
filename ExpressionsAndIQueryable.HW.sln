@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionsAndIQueryable.HW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionsAndIQueryable.HW.ExpressionVis", "ExpressionsAndIQueryable.HW.ExpressionVis\ExpressionsAndIQueryable.HW.ExpressionVis.csproj", "{A6670D50-07F6-47A6-9427-7CCDE61042A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionsAndIQueryable.HW.E3SProviderSample", "ExpressionsAndIQueryable.HW.E3SProviderSample\ExpressionsAndIQueryable.HW.E3SProviderSample.csproj", "{9919AF3F-05B7-4FB1-A745-2A2A0DC55FF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A6670D50-07F6-47A6-9427-7CCDE61042A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6670D50-07F6-47A6-9427-7CCDE61042A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6670D50-07F6-47A6-9427-7CCDE61042A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9919AF3F-05B7-4FB1-A745-2A2A0DC55FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9919AF3F-05B7-4FB1-A745-2A2A0DC55FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9919AF3F-05B7-4FB1-A745-2A2A0DC55FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9919AF3F-05B7-4FB1-A745-2A2A0DC55FF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
